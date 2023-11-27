@@ -1,0 +1,44 @@
+/* Top products */
+.welcome-messeage{
+    display: flex;
+ 
+    margin-top: 110px;
+    margin-left: 24%;
+  
+    font-family: cursive;
+    border-bottom: 1px solid black;
+
+}
+
+.top-product-title{
+    border-bottom: 2px dotted black;
+}
+ 
+.top-product-slider-wrap img{
+    width: 300px;
+    border-radius: 2cm;
+ 
+}
+.top-product-slider-wrap{
+    justify-content: center;
+    padding: 20px;
+    border: 2px solid black;
+}
+.top-product-slider{
+    display: flex;
+    justify-content: space-around;
+}
+.dashboard-wrap{
+     
+    margin-left: 30%;
+
+}
+.dashboard-text-wrap{
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+/* charts */
+ 
+
+ 

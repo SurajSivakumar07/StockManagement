@@ -1,0 +1,59 @@
+.nav-wrap{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    border: 1px solid white;
+    padding: 20px;
+    /* margin-top: 20px; */
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+
+    position: fixed;
+    top: 0%;
+    width: 100%;
+   
+}
+.nav-content-left{
+    display: flex;
+}
+
+.nav-content-right{
+    display: flex;
+}
+
+.profile-logo  i{
+    margin-left: 20px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.toggle-bar i{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo-name{
+font-family: cursive;
+}
+ 
+.input-filed input{
+    padding-left:40px;
+    padding-right:40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    border: 1px solid black;
+
+    border-radius: 2cm;
+
+}
+
+.input-filed i{
+    margin-left: 10px;
+    font-size: 20px;
+ 
+}

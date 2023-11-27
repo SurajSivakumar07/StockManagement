@@ -1,0 +1,11 @@
+.product-add-wrap1{
+    position: fixed;
+    top: 10%;
+    width: 550px;
+    margin-left: 30pc;
+    margin-top: 10%;
+    border: 1px solid black;
+    z-index: 1;
+    background-color: white;
+    padding: 15px;
+}

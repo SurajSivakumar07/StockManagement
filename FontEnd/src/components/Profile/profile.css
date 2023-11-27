@@ -1,0 +1,16 @@
+
+.profile-wrap{
+    font-size: 10px;
+    background-color: white;
+    border: 2px solid wheat;
+ 
+     
+    padding: 2px;
+    cursor: pointer;
+    margin-top: 2px;
+}
+
+.profile-wrap h2{
+    border-bottom: 1px solid black;
+    margin-top: 10px;
+}
