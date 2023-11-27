@@ -1,0 +1,17 @@
+com/example/demo/Controller/CustomerController.class
+com/example/demo/Service/CategoryService.class
+com/example/demo/Service/CustomerService.class
+com/example/demo/Model/CustomerModel.class
+com/example/demo/InventoryManagementApplication.class
+com/example/demo/Model/SupplierModel.class
+com/example/demo/Service/ListService.class
+com/example/demo/Service/SupplierService.class
+com/example/demo/Repository/ListRepository.class
+com/example/demo/Controller/SupplierController.class
+com/example/demo/Repository/CategoryRepository.class
+com/example/demo/Repository/SupplierRepository.class
+com/example/demo/Controller/InventoryController.class
+com/example/demo/Controller/CategoryController.class
+com/example/demo/Model/ListModel.class
+com/example/demo/Model/CategoryModel.class
+com/example/demo/Repository/CustomerRepository.class
